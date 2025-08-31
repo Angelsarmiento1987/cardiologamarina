@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cardiologamarina/static/css/main.9dd745ba.css",
+    "main.js": "/cardiologamarina/static/js/main.5f68455d.js",
+    "static/media/dramarina.png": "/cardiologamarina/static/media/dramarina.f0d3316e9a07ff484ab2.png",
+    "static/media/deporte.jpg": "/cardiologamarina/static/media/deporte.a8e9f550e94bfbf52421.jpg",
+    "static/media/ancianas.jpg": "/cardiologamarina/static/media/ancianas.1ebf0742b05a0e2e4946.jpg",
+    "static/media/logomarina.PNG": "/cardiologamarina/static/media/logomarina.abd949e7522bcace2901.PNG",
+    "static/media/perfil.jpeg": "/cardiologamarina/static/media/perfil.494d8cdfe161bd04a5e7.jpeg",
+    "index.html": "/cardiologamarina/index.html",
+    "main.9dd745ba.css.map": "/cardiologamarina/static/css/main.9dd745ba.css.map",
+    "main.5f68455d.js.map": "/cardiologamarina/static/js/main.5f68455d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd745ba.css",
+    "static/js/main.5f68455d.js"
+  ]
+}
